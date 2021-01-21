@@ -1,4 +1,4 @@
-SALAD RECIPIE
+THE BEST SALAD RECIPIE
 
 INGREDIENTS:
 
@@ -13,4 +13,5 @@ DIRECTIONS:
 
 cut the tomato
 cut the lettuce
+cut the spinach
 ...
